@@ -21,5 +21,5 @@
  hello wangjx! hello Git!master test
  hello wangjx! hello Git!-fighting
  hello wangjx! hello Git!ww hot-fix test
- wangjunxiang
+ wangjunxiang master test
  conflict
