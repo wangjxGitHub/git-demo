@@ -22,3 +22,4 @@
  hello wangjx! hello Git!
  hello wangjx! hello Git!ww hot-fix test
  wangjunxiang
+ conflict
