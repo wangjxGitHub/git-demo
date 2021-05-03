@@ -22,4 +22,4 @@
  hello wangjx! hello Git!-fighting
  hello wangjx! hello Git!ww hot-fix test
  wangjunxiang master test
- conflict
+ conflict conflict test
